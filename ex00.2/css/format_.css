@@ -1,0 +1,55 @@
+table {
+ border-collapse: collapse;
+ background: url("../imgs/background.png");
+ border-radius: 25px;
+}
+
+   body
+{
+    background-color : #484848;
+	   margin: 0;
+    padding: 0;
+	
+}
+h1
+{
+    color : #000000;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+
+form  {
+	 	    
+
+			left : 40%;
+			align:"center";
+			 width: 300px;
+		    margin: 0 auto;
+       }
+
+.cell {
+	width: 50px;
+	height: 50px;
+	
+ 	  }
+
+
+body {
+  background-color: #232323;
+	 }
+button {
+	width: 135px;
+	background-color: rgb(46, 140, 217);
+	font-size:20;
+	border-radius: 12px;
+	border-color: black;
+	font-family: "Arial";
+	margin: 3px;
+        }
+
+h1{
+	text-align: center;
+	font-family: Arial;
+	font-size: 50;
+	color:#FFFFFF; 
+  }
